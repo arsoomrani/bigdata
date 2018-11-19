@@ -1,1 +1,2 @@
-print("my name")
+def HelloWorld():
+return "Hello World"
